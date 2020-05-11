@@ -42,7 +42,7 @@ Identifier        | Description
     Here the function **gsub()** is used to get desired result.
     
     - From the data set in the step above, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-    `final_data` stores the required content.
+    `final_data` *180 rows, 88 cols* stores the required content.
     
     - Writes `final_data`.
     
