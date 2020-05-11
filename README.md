@@ -8,15 +8,15 @@ This is a repository for the course project of Getting and Cleaning Data (Course
 
 ## Files
 
-1. `CodeBook.md` This enlists all the steps, variables and the transformation done in the scripts attached.
+1. [`CodeBook.md`](https://github.com/ThenoobMario/Tracking-Data/blob/master/CodeBook.md) This enlists all the steps, variables and the transformation done in the scripts attached.
 
-2. `getting_data.R` Gets the data from the net so that it could be applied for further operations. I made this so that you may not need to go through the hassle of getting the data yourself.
+2. [`getting_data.R`](https://github.com/ThenoobMario/Tracking-Data/blob/master/getting_data.R) Gets the data from the net so that it could be applied for further operations. I made this so that you may not need to go through the hassle of getting the data yourself.
 
-3. `run_analysis.R` Performs the steps given in the instructions, which are as follows:
+3. [`run_analysis.R`](https://github.com/ThenoobMario/Tracking-Data/blob/master/run_analysis.R) Performs the steps given in the instructions, which are as follows:
     - Merges the training and the test sets to create one data set.
     - Extracts only the measurements on the mean and standard deviation for each measurement.
     - Uses descriptive activity names to name the activities in the data set
     - Appropriately labels the data set with descriptive variable names.
     - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-4. `final_data.txt` This is the data set mentioned in the last instruction.
+4. [`final_data.txt`](https://github.com/ThenoobMario/Tracking-Data/blob/master/final_data.txt) This is the data set mentioned in the last instruction.
