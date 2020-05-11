@@ -8,7 +8,7 @@ This is a repository for the course project of Getting and Cleaning Data (Course
 
 ## Files
 
-1. 'CodeBook.md' This enlists all the steps, variables and the transformation done in the scripts attached.
+1. *CodeBook.md* This enlists all the steps, variables and the transformation done in the scripts attached.
 
 2. 'getting_data.R' Gets the data from the net so that it could be applied for further operations. I made this so that you may not need to go through the hassle of getting the data yourself.
 
