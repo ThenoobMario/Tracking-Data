@@ -1,8 +1,4 @@
----
-title: "Tracking-Data"
-author: "ThenoobMario"
-output: html_document
----
+# Tracking-Data
 
 This is a repository for the course project of Getting and Cleaning Data (Coursera). The project required to run certain analysis on the Human Activity Recognition Dataset.
 
