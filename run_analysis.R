@@ -1,4 +1,4 @@
-## Merging the tables created
+## Merging the tables created as required
 train_merged <- cbind(subject_train, y_train, x_train)
 test_merged <- cbind(subject_test, y_test, x_test)
 
@@ -13,7 +13,7 @@ req_data <- select(merged_data, subject, code, contains("mean"), contains("std")
 req_data$code <- activity_labels[req_data$code, 2]
 
 
-## Labeling the variables appropriately
+## Labeling the variables appropriately 
 names(req_data)[2] <- "activity"
 names(req_data) <- gsub("^t", "Time", names(req_data))
 names(req_data) <- gsub("^f", "Frequency", names(req_data))
