@@ -21,7 +21,6 @@ This is a repository for the course project of Getting and Cleaning Data (Course
 
 4. [`final_data.txt`](https://github.com/ThenoobMario/Tracking-Data/blob/master/final_data.txt) This is the data set mentioned in the last instruction.
 
-
 ## List of Identifiers
 
 Following is the list of all the variables used in the two scripts I have made.
